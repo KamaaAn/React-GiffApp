@@ -1,0 +1,20 @@
+{
+  "name": "giffapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "giff"
+  ],
+  "author": "Kama",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^0.10.0",
+    "start": "http-server"
+  }
+
+}
